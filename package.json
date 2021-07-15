@@ -1,0 +1,13 @@
+{
+  "name": "Tableau_Part_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TurboTronix/tableau-extensions-tutorial-part-two",
+  "author": "Ron L. <mr.turbo.tronix@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "chart.js": "^3.4.1",
+    "jquery": "^3.6.0"
+  }
+}
